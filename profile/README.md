@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Status-Konzeptphase-10b981?style=for-the-badge" alt="Status: Konzeptphase" />
 </div>
 
-> Ein Projekt von: **Timon, Fabian, Tammo und Henry**.
+> Ein Projekt von: **[Timon](https://github.com/0day-sudo), Fabian, Tammo und [Henry](https://github.com/Jumpstone**.
 
 ---
 
