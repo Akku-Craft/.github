@@ -35,7 +35,6 @@ AkkuCraft ermöglicht es dem Benutzer, **einzelne Akkuzellen** (z.B. Li-Ion 1865
 Dieses Projekt konzentriert sich auf die Schnittstelle zwischen Hardware-Design und intelligenter Steuerung:
 
 <p>
-  <img src="https://img.shields.io/badge/Zelltyp-Li--Ion_18650-10b981?style=for-the-badge&logo=tesla&logoColor=white" />
   <img src="https://img.shields.io/badge/Elektronik-BMS_Design-10b981?style=for-the-badge&logo=kicad&logoColor=white" />
   <img src="https://img.shields.io/badge/Gehäuse-3D_CAD-10b981?style=for-the-badge&logo=autodesk&logoColor=white" />
   <img src="https://img.shields.io/badge/Firmware-Arduino/C++-10b981?style=for-the-badge&logo=arduino&logoColor=white" />
