@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Konzeptphase-10b981?style=for-the-badge" alt="Status: Konzeptphase" />
-  <img src="https://img.shields.io/badge/Lizenz-Open_Source-999999?style=for-the-badge" alt="Lizenz: Open Source" />
 </div>
 
 > Ein Projekt von: **Timon, Fabian, Tammo und Henry**.
