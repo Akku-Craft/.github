@@ -41,4 +41,4 @@ Dieses Projekt konzentriert sich auf die Schnittstelle zwischen Hardware-Design 
 
 ---
 
-**Kontakt:** Fragen oder Anregungen bitte an @Jumpstone richten (Discord).
+**Kontakt:** Fragen oder Anregungen bitte an [@Jumpstone](https://github.com/Jumpstone) richten (Discord).
