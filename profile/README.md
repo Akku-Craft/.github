@@ -1,13 +1,8 @@
-<div align="center">
-  <h1>🔋 AkkuCraft 🛠️</h1>
+# 🔋 AkkuCraft 🛠️
 
-  <a href="https://github.com/Akku-Craft">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://akku-craft.vercel.app">
-    <img src="https://img.shields.io/badge/Website-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
-  </a>
-</div>
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akku-craft)
+[![Static Badge](https://img.shields.io/badge/Website-Docs-blue?style=flat)](https://akku-craft.vercel.app)
+![Static Badge](https://img.shields.io/badge/License-GPL_v3-yellow?style=flat)
 
 > Ein Projekt von: **[Timon](https://github.com/0day-sudo), Fabian, Tammo und [Henry](https://github.com/Jumpstone)**.
 
@@ -30,18 +25,6 @@ AkkuCraft ermöglicht es dem Benutzer, **einzelne Akkuzellen** (z.B. Li-Ion 1865
 - **⚡ Reparierbarkeit & Nachhaltigkeit:** Anstatt die gesamte Powerbank zu entsorgen, können kaputte Akkuzellen einzeln und schnell ersetzt werden.
 - **➕ Skalierbarkeit:** Durch das Hinzufügen neuer Zellen kann die Kapazität der Powerbank jederzeit flexibel und bedarfsgerecht erweitert werden.
 - **💰 Kosteneffizienz:** Es ist lediglich der Austausch defekter Einzelteile nötig, nicht der Kauf eines komplett neuen Geräts.
-
----
-
-## ⚙️ Technischer Fokus (Tech Stack)
-
-Dieses Projekt konzentriert sich auf die Schnittstelle zwischen Hardware-Design und intelligenter Steuerung:
-
-<p>
-  <img src="https://img.shields.io/badge/Elektronik-BMS_Design-10b981?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gehäuse-3D_CAD-10b981?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firmware-Arduino/C++-10b981?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
 
 ---
 
