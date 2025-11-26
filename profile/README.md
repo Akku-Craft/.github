@@ -1,8 +1,12 @@
-# 🔋 AkkuCraft 🛠️
-## Die modulare und nachhaltige Powerbank
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Konzeptphase-10b981?style=for-the-badge" alt="Status: Konzeptphase" />
+  <h1>🔋 AkkuCraft 🛠️</h1>
+
+  <a href="https://github.com/Akku-Craft">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://akku-craft.vercel.app">
+    <img src="https://img.shields.io/badge/Website-10b981?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  </a>
 </div>
 
 > Ein Projekt von: **[Timon](https://github.com/0day-sudo), Fabian, Tammo und [Henry](https://github.com/Jumpstone)**.
@@ -23,9 +27,9 @@ AkkuCraft ermöglicht es dem Benutzer, **einzelne Akkuzellen** (z.B. Li-Ion 1865
 
 ### Die zentralen Vorteile:
 
-* **⚡ Reparierbarkeit & Nachhaltigkeit:** Anstatt die gesamte Powerbank zu entsorgen, können kaputte Akkuzellen einzeln und schnell ersetzt werden.
-* **➕ Skalierbarkeit:** Durch das Hinzufügen neuer Zellen kann die Kapazität der Powerbank jederzeit flexibel und bedarfsgerecht erweitert werden.
-* **💰 Kosteneffizienz:** Es ist lediglich der Austausch defekter Einzelteile nötig, nicht der Kauf eines komplett neuen Geräts.
+- **⚡ Reparierbarkeit & Nachhaltigkeit:** Anstatt die gesamte Powerbank zu entsorgen, können kaputte Akkuzellen einzeln und schnell ersetzt werden.
+- **➕ Skalierbarkeit:** Durch das Hinzufügen neuer Zellen kann die Kapazität der Powerbank jederzeit flexibel und bedarfsgerecht erweitert werden.
+- **💰 Kosteneffizienz:** Es ist lediglich der Austausch defekter Einzelteile nötig, nicht der Kauf eines komplett neuen Geräts.
 
 ---
 
