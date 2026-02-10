@@ -1,7 +1,6 @@
 # 🔋 AkkuCraft 🛠️
 
 [![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akku-craft)
-![Static Badge](https://img.shields.io/badge/License-GPL_v3-yellow?style=flat)
 
 > Ein Projekt von: **[Timon](https://github.com/0day-sudo), Fabian, Tammo und [Henry](https://github.com/Jumpstone)**.
 
