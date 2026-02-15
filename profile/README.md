@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akku-craft)
 
-> Ein Projekt von: **[Timon](https://github.com/0day-sudo), Fabian, Tammo und [Henry](https://github.com/Jumpstone)**.
+> Ein Projekt von: **[Timon](https://github.com/0day-sudo), [Fabian](https://github.com/keineanhnungwasichhiereinschreibensoll) und [Henry](https://github.com/Jumpstone)**.
 
 ---
 
