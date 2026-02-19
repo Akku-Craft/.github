@@ -5,3 +5,8 @@
 ---
 
 Akku-Craft ist ein universelles, modulares Akkusystem, das aktiv Elektroschrott reduzieren kann. Dank dezentraler Überwachung und präzisem Zell-Balancing garantiert das System eine sichere, langlebige und nachhaltige Energieversorgung für verschiedenste Endgeräte.
+
+---
+
+## Partner
+Unser Partner Re.Lion.Bat von Pre Zero.
