@@ -1,29 +1,7 @@
-# 🔋 AkkuCraft 🛠️
-
-[![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/akku-craft)
+# Akku-Craft
 
 > Ein Projekt von: **[Timon](https://github.com/0day-sudo), [Fabian](https://github.com/keineahnungwasichhierreinschreibensoll) und [Henry](https://github.com/Jumpstone)**.
 
 ---
 
-## 📝 Projektübersicht
-
-Das Ziel von **AkkuCraft** ist die Entwicklung einer **umweltfreundlichen** und **kostengünstigen** Alternative zu herkömmlichen Powerbanks.
-
-Herkömmliche Powerbanks versiegeln alle Batterien fest in einer Hülle. Dies führt dazu, dass bei einem Defekt der gesamten Einheit unnötiger Elektroschrott entsteht. AkkuCraft löst dieses Problem durch ein konsequent modulares Design.
-
----
-
-## ✨ Kernidee: Modulare Zellenverwaltung
-
-AkkuCraft ermöglicht es dem Benutzer, **einzelne Akkuzellen** (z.B. Li-Ion 18650) **hinzuzufügen und auszuwechseln**.
-
-### Die zentralen Vorteile:
-
-- **⚡ Reparierbarkeit & Nachhaltigkeit:** Anstatt die gesamte Powerbank zu entsorgen, können kaputte Akkuzellen einzeln und schnell ersetzt werden.
-- **➕ Skalierbarkeit:** Durch das Hinzufügen neuer Zellen kann die Kapazität der Powerbank jederzeit flexibel und bedarfsgerecht erweitert werden.
-- **💰 Kosteneffizienz:** Es ist lediglich der Austausch defekter Einzelteile nötig, nicht der Kauf eines komplett neuen Geräts.
-
----
-
-**Kontakt:** Fragen oder Anregungen bitte an [@Jumpstone](https://github.com/Jumpstone) richten (Discord).
+Akku-Craft ist ein universelles, modulares Akkusystem, das aktiv Elektroschrott reduzieren kann. Dank dezentraler Überwachung und präzisem Zell-Balancing garantiert das System eine sichere, langlebige und nachhaltige Energieversorgung für verschiedenste Endgeräte.
