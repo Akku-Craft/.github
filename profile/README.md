@@ -8,7 +8,7 @@ Akku-Craft ist ein universelles, modulares Akkusystem, das aktiv Elektroschrott 
 ### Das Team
 * **[Timon](https://github.com/0day-sudo)** — Lead Developer (C++ / BMS Logic)
 * **[Fabian](https://github.com/keineahnungwasichhierreinschreibensoll)** — Hardware-Engineering & Prototyping
-* **[Henry](https://github.com/Jumpstone)** — Circuit Design, 3D Modeling & General Management
+* **[Henry](https://github.com/Jumpstone)** — Circuit Design, 3D Modeling & GitHub-Management
 
 ---
 
