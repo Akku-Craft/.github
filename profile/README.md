@@ -1,7 +1,7 @@
 # Akku-Craft
 **Sustainable • Modular • Decentralized**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Organization-green?style=for-the-badge&logo=github)](https://github.com/Akku-Craft) [![Documentation](https://img.shields.io/badge/GitHub-Wiki-blue?style=for-the-badge&logo=github)](https://github.com/Akku-Craft/wiki/wiki)
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-green?style=for-the-badge&logo=github)](https://github.com/Akku-Craft) [![Documentation](https://img.shields.io/badge/GitHub-Wiki-blue?style=for-the-badge&logo=github)](https://github.com/Akku-Craft/wiki/wiki) [![Website](https://img.shields.io/badge/Website-red?style=for-the-badge)](https://akku-craft.usbverkehrtherum.de/)
 
 
 Akku-Craft is a universal, modular battery system designed to actively reduce electronic waste. Thanks to decentralized monitoring and precise cell balancing, the system guarantees a safe, long-lasting, and sustainable power supply for a wide variety of devices.
@@ -21,3 +21,7 @@ We are supported by **[Re.Lion.Bat.](https://www.relionbat.com/)** (a **PreZero*
 ---
 
 *Damit unsere Zukunft modular bleibt.*
+
+---
+
+[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square)](https://jumpstone4477.de/code-of-conduct)
