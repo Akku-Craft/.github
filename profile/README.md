@@ -21,4 +21,4 @@ We are supported by **[Re.Lion.Bat.](https://www.relionbat.com/)** (a **PreZero*
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square)](https://jumpstone4477.de/code-of-conduct)
+[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square)](https://akku-craft.usbverkehrtherum.de/code-of-conduct)
