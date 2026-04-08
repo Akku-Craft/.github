@@ -1,8 +1,12 @@
 # Contributing to Akku-Craft
 
+> [!TIP]
+> Do you prefer the web version? Visit [https://akku-craft.usbverkehrtherum.de/contributing](https://akku-craft.usbverkehrtherum.de/contributing).
+
 Thanks for your interest in contributing. Akku-Craft is a small project, and outside help genuinely makes a difference — whether you're into embedded systems, web development, PCB design, or CAD.
 
-> **Note:** This is a brief overview. For detailed contribution guidelines, check the `CONTRIBUTING.md` in the relevant repository.
+> [!NOTE]
+> This is a brief overview. For detailed contribution guidelines, check the `CONTRIBUTING.md` in the relevant repository.
 
 ---
 
