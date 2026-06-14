@@ -6,10 +6,10 @@ Akku-Craft is a universal, modular battery system designed to actively reduce el
 ---
 
 ### The Team
-* **[Timon](https://github.com/0day-sudo)** — Chief Technology Officer (CTO) & Co-Founder
-* **[Fabian](https://github.com/keineahnungwasichhierreinschreibensoll)** — Chief Product Officer (CPO) & Co-Founder
-* **[Henry](https://github.com/henrymmey)** — Chief Design Officer (CDO) & Co-Founder
-* **Tammo** — Chief Product Officer (CPO)
+* **[Timon](https://github.com/0day-sudo)** — Lead Developer
+* **[Fabian](https://github.com/keineahnungwasichhierreinschreibensoll)** — Hardware Engineering & Prototyping
+* **[Henry](https://github.com/henrymmey)** — Circuit Design, 3D Modeling & Developer
+* **Tammo** — Hardware Engineering & Prototyping
 
 ---
 
