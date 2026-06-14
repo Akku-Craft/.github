@@ -27,7 +27,7 @@ If you can't find what you're looking for in the Wiki, here are your options:
 
 For specific technical questions or inquiries, you can reach out to **Henry** on Discord:
 
-**Discord:** `jumpstone4477`
+**Discord:** `henrymmey`
 
 Please keep in mind that response times may vary. Providing as much context as possible (e.g., hardware version, error messages, steps to reproduce) will help us get back to you more effectively.
 
