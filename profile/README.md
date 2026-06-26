@@ -13,13 +13,4 @@ Akku-Craft is a universal, modular battery system designed to actively reduce el
 
 ---
 
-### Partners
-We are supported by **[Re.Lion.Bat.](https://www.relionbat.com/)** (a **PreZero** company), experts in sustainable battery recycling and circular economy.
-
----
-
-*Damit unsere Zukunft modular bleibt.*
-
----
-
 [![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey?style=flat-square)](https://akku-craft.eu/code-of-conduct)
