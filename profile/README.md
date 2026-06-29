@@ -9,7 +9,7 @@ Akku-Craft is a universal, modular battery system designed to actively reduce el
 * **[Timon](https://github.com/0day-sudo)** — Lead Developer
 * **[Fabian](https://github.com/keineahnungwasichhierreinschreibensoll)** — Hardware Engineering
 * **[Henry](https://github.com/henrymmey)** — Hardware Engineering, Developer
-* **Tammo** — Social Media, Hardware Engineering
+* **[Tammo](https://github.com/Tado16cl)** — Social Media, Hardware Engineering
 
 See all team members on the Team page: [akku-craft.eu/team](https://akku-craft.eu/team)
 
